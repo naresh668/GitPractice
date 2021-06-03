@@ -14,7 +14,7 @@ public class DemoController {
 	
 	@GetMapping("/check")
 	public ResponseEntity<String> doCheck(){
-		String str="swathi";
+		String str="ssatish";
 		String message="hello";
 		
 		//HttpEntity<String> response=new HttpEntity<>();
