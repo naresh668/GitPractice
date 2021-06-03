@@ -22,7 +22,7 @@ public class DemoController {
 		String message="hello";
 
 		
-		String  try="emo";
+		String  try="reddy";
 		
 		//HttpEntity<String> response=new HttpEntity<>();
 		return null;
