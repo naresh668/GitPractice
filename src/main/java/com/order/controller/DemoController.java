@@ -17,6 +17,8 @@ public class DemoController {
 		String str="ssatish";
 		String message="hello";
 		
+		String  try="emo";
+		
 		//HttpEntity<String> response=new HttpEntity<>();
 		return null;
 		
