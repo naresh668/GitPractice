@@ -10,14 +10,14 @@ public class DemoController {
 	
 	
 	
-	
+	//democontroller
 	
 	@GetMapping("/check")
 	public ResponseEntity<String> doCheck(){
 
 		
 		
-		
+		String str="reddy";
 		
 		return null;
 		
