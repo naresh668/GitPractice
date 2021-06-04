@@ -15,7 +15,7 @@ public class DemoController {
 	@GetMapping("/check")
 	public ResponseEntity<String> doCheck(){
 
-		
+		System.out.println("done");
 		
 		
 		
